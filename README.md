@@ -7,6 +7,7 @@ Advanced NexaFlow real estate website prototype.
 - GitHub: https://github.com/shub1goyal/skyline-estates
 - Live: https://skyline-estates-advisory.vercel.app
 - Deployment path: GitHub `main` branch to Vercel production.
+- The existing Vercel production domain is retained.
 
 ## Features
 

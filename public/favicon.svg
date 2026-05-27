@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">Skyline Estates icon</title>
+  <desc id="desc">A blue city and home mark on a deep navy background.</desc>
+  <rect width="64" height="64" rx="16" fill="#08111f"/>
+  <path d="M11 46h42v9H11z" fill="#e8f1ff"/>
+  <path d="M14 42 32 25l18 17" fill="none" stroke="#4f8cff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+  <path d="M21 55V34h22v21" fill="#0f2d52"/>
+  <path d="M27 55V44h10v11" fill="#e8f1ff"/>
+  <path d="M15 28V13h10v7M39 21V10h10v22" fill="none" stroke="#7ad7ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+  <path d="M20 18h.01M20 24h.01M44 16h.01M44 22h.01M44 28h.01" stroke="#e8f1ff" stroke-linecap="round" stroke-width="3"/>
+</svg>
